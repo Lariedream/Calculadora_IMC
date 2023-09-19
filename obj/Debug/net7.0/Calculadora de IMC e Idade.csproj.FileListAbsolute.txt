@@ -1,0 +1,14 @@
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.AssemblyInfoInputs.cache
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.AssemblyInfo.cs
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.csproj.CoreCompileInputs.cache
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\bin\Debug\net7.0\Calculadora de IMC e Idade.exe
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\bin\Debug\net7.0\Calculadora de IMC e Idade.deps.json
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\bin\Debug\net7.0\Calculadora de IMC e Idade.runtimeconfig.json
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\bin\Debug\net7.0\Calculadora de IMC e Idade.dll
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\bin\Debug\net7.0\Calculadora de IMC e Idade.pdb
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.dll
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\refint\Calculadora de IMC e Idade.dll
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.pdb
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\Calculadora de IMC e Idade.genruntimeconfig.cache
+C:\Users\cenoure bronze\Desktop\Calculadora de IMC e Idade\obj\Debug\net7.0\ref\Calculadora de IMC e Idade.dll
